@@ -1,6 +1,6 @@
 /**
  * 
- * @author varnita1308, micky vue
+ * @author varnita1308
  * Interface is created to implement all Thread priority operations
  *
  */
