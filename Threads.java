@@ -10,7 +10,7 @@ import java.lang.management.ThreadMXBean;
 
 /**
  * 
- * @author varnita Jain
+ * @author varnita1308
  *
  */
 public class Threads extends Thread {
