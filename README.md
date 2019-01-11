@@ -1,8 +1,6 @@
 # CPU-performance
 CPU performance project
 
-The project contains code for CPU performance in C++ and Java.
+1. C++ code to test CPU performance using Atomic and Mutex operations.
 
-In C++, CPU performance is compared using Atomic and Mutex.
-
-Added new Java code for Thread affinity, Thread class and Thread priority.
+2. Java Project to test CPU performance using Thread affinity, Thread class and Thread priority.
