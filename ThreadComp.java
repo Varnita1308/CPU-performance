@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 
- * @author varnita jain, micky vue
+ * @author varnita1308
  *This is a thread class for computation intensive thread
  */
 public class ThreadComp extends Threads {
