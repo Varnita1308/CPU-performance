@@ -1,6 +1,12 @@
 import net.openhft.affinity.AffinityLock;
 import net.openhft.affinity.AffinityStrategies;
 
+/**
+ * 
+ * @author varnita1308
+ * this class is created to perform thread operations for 2 instances of I/O thread
+ *
+ */
 public class Thread11 extends Threads implements InfThreadAffinity, InfThreadPriority {
 
 	AffinityStrategies AffinityStrategySameCore = AffinityStrategies.SAME_CORE;
