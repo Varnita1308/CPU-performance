@@ -6,7 +6,7 @@ import net.openhft.affinity.AffinityLock;
 
 /**
  * 
- * @author varnita jain, micky vue
+ * @author varnita1308
  * IO intensive thread class
  *
  */
