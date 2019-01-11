@@ -3,7 +3,7 @@ import net.openhft.affinity.AffinityStrategies;
 
 /**
  * 
- * @author varnita1308, micky vue
+ * @author varnita1308
  * this class is created to perform thread operations for 1 instance of I/O and another of Computation thread
  *
  */
